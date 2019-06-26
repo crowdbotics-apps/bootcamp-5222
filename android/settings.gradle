@@ -1,0 +1,3 @@
+rootProject.name = 'bootcamp_5222'
+
+include ':app'

@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT bootcamp_5222.wsgi:application
